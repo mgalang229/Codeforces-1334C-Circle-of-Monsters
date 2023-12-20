@@ -17,7 +17,7 @@ goal:
 
 1 <= n <= 300,000
 1 <= a[i], b[i] <= 10^12
-(use long data type)
+(use long long data type)
 
 -------------------------
 
